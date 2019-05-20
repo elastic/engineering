@@ -50,7 +50,7 @@ As a simple exercise, consider a function which has an argument which is always 
 
 When someone criticizes the code, they are not criticizing you, so don’t take it personally. Help them understand why you wrote it that way. When someone rewrites something you wrote, it’s not a rejection of your ideas. At one point Mike pushed a change to Lucene that Adrien obsoleted just two days later! It’s great when other people take interest in code you wrote: it means the code is alive. See improvements to your code as that code becoming a growing, thriving being.
 
-Don’t fear making a mistake and, more importantly, don’t let fear paralyze you from adding something that might not be totally right. See mistakes and failures as *feedback*, *discovery *and *knowledge* that can make our product better. 
+Don’t fear making a mistake and, more importantly, don’t let fear paralyze you from adding something that might not be totally right. See mistakes and failures as *feedback*, *discovery* and *knowledge* that can make our product better. 
 
 * *Don’t be afraid of big changes.* Often the solution to a problem is hard. The hardest part is to solve it correctly. It comes together with tons of work, risk, and changes in the system that will affect others — mostly users. Prefer incremental changes (see *Progress over perfection*), but be willing to make big changes in big chunks where incremental change is impossible. 
 
